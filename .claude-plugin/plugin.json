@@ -7,7 +7,7 @@
     "url": "https://www.pabs.co.nz"
   },
   "homepage": "https://www.pabs.co.nz/docs/install-pabs",
-  "repository": "https://github.com/pdunovits/pabs-plugin",
+  "repository": "https://github.com/getpabs/pabs-plugin",
   "privacyPolicyUrl": "https://www.pabs.co.nz/privacy",
   "icon": "./assets/icon.png",
   "license": "SEE LICENSE IN LICENSE",

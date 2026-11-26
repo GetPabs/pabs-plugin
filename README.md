@@ -16,7 +16,7 @@ This plugin connects your AI tool, such as Claude or ChatGPT, to your Pabs accou
 In Claude Code, type:
 
 ```
-/plugin install pabs --marketplace pdunovits/pabs-plugin
+/plugin install pabs --marketplace getpabs/pabs-plugin
 ```
 
 In ChatGPT, find Pabs in Plugins, or open [Pabs in ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6af4256d528881919477148dc469051d).
