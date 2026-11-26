@@ -1,0 +1,19 @@
+{
+  "name": "pabs",
+  "owner": {
+    "name": "Pabs",
+    "url": "https://www.pabs.co.nz"
+  },
+  "metadata": {
+    "description": "Pabs, your product and design lead"
+  },
+  "plugins": [
+    {
+      "name": "pabs",
+      "source": "./",
+      "description": "Your product and design lead, connected to the right Pabs project in each conversation.",
+      "version": "0.2.2",
+      "category": "productivity"
+    }
+  ]
+}

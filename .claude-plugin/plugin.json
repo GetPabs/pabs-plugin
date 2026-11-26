@@ -1,0 +1,19 @@
+{
+  "name": "pabs",
+  "version": "0.2.2",
+  "description": "Your product and design lead, connected to the right Pabs project in each conversation.",
+  "author": {
+    "name": "Pabs",
+    "url": "https://www.pabs.co.nz"
+  },
+  "homepage": "https://www.pabs.co.nz/docs/install-pabs",
+  "repository": "https://github.com/pdunovits/pabs-plugin",
+  "privacyPolicyUrl": "https://www.pabs.co.nz/privacy",
+  "icon": "./assets/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "product",
+    "strategy",
+    "design"
+  ]
+}
