@@ -1,7 +1,7 @@
 {
-  "name": "pabs",
+  "name": "getpabs",
   "owner": {
-    "name": "Pabs",
+    "name": "GetPabs",
     "url": "https://www.pabs.co.nz"
   },
   "metadata": {
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "pabs",
+      "name": "getpabs",
       "source": "./",
       "description": "Your product and design lead, connected to the right Pabs project in each conversation.",
       "version": "0.2.2",

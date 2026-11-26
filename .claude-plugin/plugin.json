@@ -1,9 +1,10 @@
 {
-  "name": "pabs",
+  "name": "getpabs",
+  "displayName": "Pabs",
   "version": "0.2.2",
   "description": "Your product and design lead, connected to the right Pabs project in each conversation.",
   "author": {
-    "name": "Pabs",
+    "name": "GetPabs",
     "url": "https://www.pabs.co.nz"
   },
   "homepage": "https://www.pabs.co.nz/docs/install-pabs",
